@@ -79,7 +79,7 @@
 					stroke-dasharray: 9000;
 					stroke-dashoffset: 1;
 
-					animation: stroke-intro 4s ease-in-out 0.9s 1 normal both;
+					animation: stroke-intro 4.5s ease-in-out 0.4s 1 normal both;
 				}
 
 				.stop1 {
