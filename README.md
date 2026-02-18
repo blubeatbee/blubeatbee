@@ -1,7 +1,6 @@
-<a href="https://github.com/blubeatbee/blubeatbee/blob/c56350a6f89881b6feae365761ac0fdd68391ab7/github_banner_blubeatbee.svg">
+<a href="https://github.com/blubeatbee/blubeatbee/blob/main/github_banner_blubeatbee.svg">
   <img src="github_banner_blubeatbee.svg" width="100%" alt="Web &amp; Database Developer" />
 </a>
-
 <div align="center">
   <img alt="My Github followers" src="https://img.shields.io/github/followers/blubeatbee?style=plastic" />  
 </div>
@@ -14,9 +13,7 @@
 <img alt="" src="https://img.shields.io/badge/any_text-you_like-blue?style=social"/>
 -->
 
-Born to frontend, forced to backend. 
-
-Nerd, programmer, and peruser of documentation.
+Born to frontend, forced to backend - Nerd, programmer, and peruser of documentation.
 
 Something to improve about myself: rest more; once I start going, I have a hard time stopping.
 
