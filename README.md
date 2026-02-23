@@ -34,7 +34,8 @@ Something to improve about myself: rest more; once I start going, I have a hard 
 [![Docker](https://skillicons.dev/icons?i=docker)](https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg)
 
 ## What I've been working on
-- [Votémon](https://github.com/chas-hack-team-saturn/votemon)
+- Votémon: [Site](https://votemon.pabu.dev/) | [Github](https://github.com/chas-hack-team-saturn/votemon)
+  - Vote on your favourite <s>Pokémon</s>! <!--View the most popular on the leaderboard-->
 
 ## Credits
 [Nikola Duza](https://github.com/nikolalsvk/nikolalsvk/blob/main/README.md) - For showing how to insert SVG animation into READMEs.
