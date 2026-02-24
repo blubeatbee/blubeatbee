@@ -36,6 +36,7 @@ Something to improve about myself: rest more; once I start going, I have a hard 
 ## What I've been working on
 - Votémon: [Site](https://votemon.pabu.dev/) | [Github](https://github.com/chas-hack-team-saturn/votemon)
   - The daily voting game. Vote on your favourite <s>Pokémon</s>! <!--View the most popular on the leaderboard-->
+  - Did the backend logic.
 
 ## Credits
 SVG Banner © blubeatbee
