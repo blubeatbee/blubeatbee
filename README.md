@@ -1,5 +1,5 @@
-<a href="https://github.com/blubeatbee/blubeatbee/blob/main/github_banner_blubeatbee.svg">
-  <img src="github_banner_blubeatbee.svg" width="100%" alt="Web &amp; Database Developer" />
+<a href="https://github.com/blubeatbee/blubeatbee/blob/main/github_banner_blubeatbee.svg" title="SVG Banner blubeatbee">
+  <img src="github_banner_blubeatbee.svg" width="100%" alt="Blubeatbee - Web &amp; Database Developer" />
 </a>
 <div align="center">
   <img alt="My Github followers" src="https://img.shields.io/github/followers/blubeatbee?style=plastic" />  
@@ -39,5 +39,4 @@ Something to improve about myself: rest more; once I start going, I have a hard 
   - Did the backend logic.
 
 ## Credits
-SVG Banner © blubeatbee
 [Nikola Duza](https://github.com/nikolalsvk/nikolalsvk/blob/main/README.md) - For showing how to insert SVG animation into READMEs.
