@@ -21,10 +21,10 @@ Something to improve about myself: rest more; once I start going, I have a hard 
 
 | | Languages | | Frameworks | | Tools |
 |---|:---|---|:---|---|:---|
-| ![](https://skillicons.dev/icons?i=cs)   | C\#        | ![](https://skillicons.dev/icons?i=git)          | Git        | ![](https://skillicons.dev/icons?i=visualstudio) | Visual Studio      |
-| ![](https://skillicons.dev/icons?i=ts)   | TypeScript | ![](https://skillicons.dev/icons?i=dotnet)       | .NET       | ![](https://skillicons.dev/icons?i=vscode)       | Visual Studio Code |
-| ![](https://skillicons.dev/icons?i=js)   | JavaScript | ![](https://skills.syvixor.com/api/icons?i=sql)  | SQL Server | ![](https://skillicons.dev/icons?i=figma)        | Figma              |
-| ![](https://skillicons.dev/icons?i=html) | HTML       | ![](https://skillicons.dev/icons?i=react)        | React      | | |
+| ![](https://skillicons.dev/icons?i=cs)   | C\#        | ![](https://skillicons.dev/icons?i=git)          | Git        |
+| ![](https://skillicons.dev/icons?i=ts)   | TypeScript | ![](https://skillicons.dev/icons?i=dotnet)       | .NET       |
+| ![](https://skillicons.dev/icons?i=js)   | JavaScript | ![](https://skills.syvixor.com/api/icons?i=sql)  | SQL Server |
+| ![](https://skillicons.dev/icons?i=html) | HTML       | ![](https://skillicons.dev/icons?i=react)        | React      |
 | ![](https://skillicons.dev/icons?i=css)  | CSS        | | | | |
 
 ||Looking to learn|
@@ -35,7 +35,10 @@ Something to improve about myself: rest more; once I start going, I have a hard 
 | ![](https://skillicons.dev/icons?i=docker)     | Docker     | 
 
 ## What I've been working on
-- Votémon: [Site](https://votemon.pabu.dev/) | [Github](https://github.com/chas-hack-team-saturn/votemon)
+- Fika.GG: [Site](https://fika-gg-web-grebdqamb3ghgjfq.denmarkeast-01.azurewebsites.net/)
+  - Arrange and organise gaming events with your friends or strangers.
+  - Get a quick overview thanks to our calendar view!
+- Votémon (currently unavailable): [Site](https://votemon.pabu.dev/) | [Github](https://github.com/chas-hack-team-saturn/votemon)
   - The daily voting game. Vote on your favourite <s>Pokémon</s>! <!--View the most popular on the leaderboard-->
   - Did the backend logic.
 
