@@ -19,13 +19,14 @@ Something to improve about myself: rest more; once I start going, I have a hard 
 
 ## My skillset
 
-| | Languages | | Frameworks | | Tools |
-|---|:---|---|:---|---|:---|
+| | Languages | | Frameworks |
+|---|:---|---|:---|
 | ![](https://skillicons.dev/icons?i=cs)   | C\#        | ![](https://skillicons.dev/icons?i=git)          | Git        |
 | ![](https://skillicons.dev/icons?i=ts)   | TypeScript | ![](https://skillicons.dev/icons?i=dotnet)       | .NET       |
 | ![](https://skillicons.dev/icons?i=js)   | JavaScript | ![](https://skills.syvixor.com/api/icons?i=sql)  | SQL Server |
 | ![](https://skillicons.dev/icons?i=html) | HTML       | ![](https://skillicons.dev/icons?i=react)        | React      |
-| ![](https://skillicons.dev/icons?i=css)  | CSS        | | | | |
+| ![](https://skillicons.dev/icons?i=css)  | CSS        | | | 
+
 
 ||Looking to learn|
 |:---|:---|
@@ -37,7 +38,7 @@ Something to improve about myself: rest more; once I start going, I have a hard 
 ## What I've been working on
 - Fika.GG: [Site](https://fika-gg-web-grebdqamb3ghgjfq.denmarkeast-01.azurewebsites.net/)
   - Arrange and organise gaming events with your friends or strangers.
-  - Get a quick overview thanks to our calendar view!
+  - I contributed with both server & client-side code, and documentation
 - Votémon (currently unavailable): [Site](https://votemon.pabu.dev/) | [Github](https://github.com/chas-hack-team-saturn/votemon)
   - The daily voting game. Vote on your favourite <s>Pokémon</s>! <!--View the most popular on the leaderboard-->
   - Did the backend logic.
